@@ -28,3 +28,14 @@ h1{
 .celular{
 	width: 50%;
 }
+
+.espacio{
+	height: 200px;
+}
+
+.separacion-title{
+	padding: 20px;
+}
+.computador{
+	width: 100%;
+}
