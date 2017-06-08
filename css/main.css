@@ -1,4 +1,4 @@
-.first{
+.azul{
 	background-color: #034f84;
 	color:white;
 }
@@ -23,4 +23,8 @@ h1{
 
 .border-total{
 	border-bottom: 2px solid Gainsboro;
+}
+
+.celular{
+	width: 50%;
 }
