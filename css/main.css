@@ -21,6 +21,6 @@ h1{
 	justify-content: center;
 }
 
-.rojo{
-	border:2px solid red;
+.border-total{
+	border-bottom: 2px solid Gainsboro;
 }
