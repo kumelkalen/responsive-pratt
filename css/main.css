@@ -29,13 +29,20 @@ h1{
 	width: 50%;
 }
 
+.alto{
+	height: 650px;
+}
 .espacio{
 	height: 200px;
 }
 
 .separacion-title{
-	padding: 20px;
+	padding: 20px
 }
 .computador{
 	width: 100%;
+}
+
+.footer{
+	height: 400px;
 }
